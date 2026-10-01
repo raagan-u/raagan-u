@@ -20,6 +20,10 @@ I like simple software, clear thinking, and shipping.
 
 If you're building something meaningful, I'd be glad to connect.
 
+## Contact
+
+[raaganuthayaargn@gmail.com](mailto:raaganuthayaargn@gmail.com)
+
 > “The most personal is the most creative.”
 >
 > — Martin Scorsese, as quoted by Bong Joon-ho
