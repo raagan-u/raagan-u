@@ -36,6 +36,8 @@ If you're building something meaningful, I'd be glad to connect.
 
 Tamil, English, Malayalam, Telugu, Kannada, and Hindi — spoken and read.
 
+Speak something that isn't on the list? Let's connect—I'm always looking to add another.
+
 > “The most personal is the most creative.”
 >
 > — Martin Scorsese, as quoted by Bong Joon-ho
