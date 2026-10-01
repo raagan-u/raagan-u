@@ -8,6 +8,14 @@ Right now, I'm learning the parts of building that go beyond code: understanding
 
 I'm currently an SDE I at [Garden Finance](https://garden.finance). I started as a backend developer, then expanded into writing smart contracts, building workflows, and working on the frontend. That range has taught me how to own and ship features end to end.
 
+## Tech
+
+I don't tie myself to a language. Once I understand what needs to be built, I can pick up the right language quickly. What matters is learning its specific strengths well enough to use it properly.
+
+- **Primary:** Rust, Go, TypeScript, Python
+- **Fundamentals:** C, C++
+- **Data:** PostgreSQL, Redis
+
 ## From My Heart
 
 **FMH stands for From My Heart.** It is a series of products I'm building—not for validation, but simply because I believe they should exist out there.
@@ -23,6 +31,10 @@ If you're building something meaningful, I'd be glad to connect.
 ## Contact
 
 [raaganuthayaargn@gmail.com](mailto:raaganuthayaargn@gmail.com)
+
+## Languages I Speak
+
+Tamil, English, Malayalam, Telugu, Kannada, and Hindi — spoken and read.
 
 > “The most personal is the most creative.”
 >
